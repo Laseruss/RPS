@@ -7,4 +7,4 @@ Built with:
   - HTML
   - CSS
   - Javascript
-  - Node.js
+  - Node.js / Express
